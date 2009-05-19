@@ -34,5 +34,5 @@ class DescriptionFixer(Plugin):
             self.enabled = False
 
     def describeTest(self, test):
-        return None
+        return False # this is where the magic happens
 
