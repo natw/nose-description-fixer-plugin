@@ -12,6 +12,6 @@ setup(
             'descriptionfixer = description_fixer:DescriptionFixer',
         ]
     },
-    py_modules = ['descriptionfixer'],
+    py_modules = ['description_fixer'],
 )
 
